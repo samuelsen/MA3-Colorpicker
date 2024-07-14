@@ -1,6 +1,7 @@
 # ColorGeneratorMA3.js
 
 The generator creates a xml containg macros to build up a colorpicker.
+A default version using the config below is avaiable in this repository. You can import the file `MA3-ColorPicker-Macros.xml` in MA3, and use it as described at: `How to use the generated Macro in MA3` below.
 
 The generated macro will build a sequence for each color group, and create cues using recipies. The recipie lines refrences color presets, and allows for use with easy update of groups to change fixture selection for each color group.
 
