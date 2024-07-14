@@ -42,7 +42,8 @@ eg:
 ### Step 1: Import images
 Import the filled and unfilled images starting at the pool item numbers specified in step 1
 
-A default set of colros, matching the autogenerate config in the example above is located [here](./images/)
+A default set of images (not complete), matching the autogenerate config in the example above is located [here](./images/)
+
 
 ### Step 2: Create color presets
 For the color picker to work, you'll need to create som color presets. The setup macro uses color preset 1 to X (where x is the number of colors you specified) to create the color sequences.
