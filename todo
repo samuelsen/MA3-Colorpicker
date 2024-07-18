@@ -1,3 +1,0 @@
-- remove "all" group, and add each group as a seperate recipie line
-    - For all groups add individual recipieline
-    - For all recipielines in each cue in the "allcolors" sequence, assign the color preset
